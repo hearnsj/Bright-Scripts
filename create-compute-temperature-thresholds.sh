@@ -9,7 +9,7 @@ alertemail=hearnsj@gmail.com
 # Unfortunately - manufacturers have different names for their sensors
 metric=BB_Inlet_Temp   # this is relevant to Intel servers
 # metric=System_Temp   # this is relevant to Supermicro servers. NOTE the space character
-#Ambient_Temp          # shoul dbe good for Dell servers
+# metric=System_temp   # should be good for Dell servers
 
 
 warnvalue=35        #send some email
