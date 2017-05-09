@@ -8,7 +8,7 @@
 #SBATCH --output=damage.out
 
 #SBATCH --mail-type  BEGIN,END
-#SBATCH --mail-user john.hearns@xma.co.uk
+#SBATCH --mail-user harnsj@gmailc.om
 
 module load abaqus
 
