@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # alert email address
-alertemail=hpcadmins@greenwich.ac.uk
+alertemail=hearnsj@gmail.com
 
 # this is the sensor value we trigge
 metric=BB_Inlet_Temp
